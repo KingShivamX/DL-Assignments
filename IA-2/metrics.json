@@ -1,0 +1,8 @@
+{
+  "dataset": "MedMNIST-PathMNIST",
+  "test_accuracy": 0.8315,
+  "test_loss": 0.5749,
+  "macro_f1": 0.7708,
+  "n_params": 324137,
+  "misclassified": 1210
+}
